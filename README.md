@@ -100,10 +100,8 @@ The analysis revealed key insights about Eduvos IT graduates, including:
 
 Static visualizations of these results can be found in the `images/` directory.
 
-## 👤 Author
+## Author
 
 **Ndivho Masiya**
 
-## 📄 License
 
-This project is for educational and portfolio purposes. The data is proprietary and confidential.
